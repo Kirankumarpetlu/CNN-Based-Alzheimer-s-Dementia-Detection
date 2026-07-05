@@ -122,38 +122,35 @@ Softmax (3 Classes)
 > Upload the extracted images into an `images/` folder in your repository and update the filenames if needed.
 
 ## CNN Architecture
+<IPython.core.display.Image object><img width="507" height="1291" alt="image" src="https://github.com/user-attachments/assets/7440f928-9e0a-4b32-a1ab-c8ae1ea4775e" />
 
-![](images/image1.png)
 
 ---
 
 ## Training Accuracy
 
-![](images/image2.png)
+<img width="748" height="540" alt="image" src="https://github.com/user-attachments/assets/ad5f1386-cbc4-425c-a094-823f07d58896" />
+
 
 ---
 
 ## Training Loss
 
-![](images/image3.png)
+<img width="690" height="532" alt="image" src="https://github.com/user-attachments/assets/d04ce54d-2d88-4c40-b9e0-06662815f2f0" />
+
 
 ---
 
 ## Confusion Matrix
 
-![](images/image4.png)
-
----
-
-## LIME Explanation
-
-![](images/image5.png)
+<img width="852" height="582" alt="image" src="https://github.com/user-attachments/assets/aa2d365d-e05a-4482-bace-bdee083c41bc" />
 
 ---
 
 ## Prediction Examples
 
-![](images/image6.png)
+<Figure size 1500x1000 with 15 Axes><img width="1490" height="987" alt="image" src="https://github.com/user-attachments/assets/5b0b1b15-dc09-4d6f-abe6-7f7672486164" />
+
 
 ---
 
