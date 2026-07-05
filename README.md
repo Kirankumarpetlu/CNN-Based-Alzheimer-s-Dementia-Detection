@@ -163,14 +163,3 @@ Softmax (3 Classes)
 - Deploy as a web application using Streamlit
 
 ---
-
-## 👨‍💻 Author
-
-**Kiran Kumar Petlu**
-
-- LinkedIn: https://linkedin.com/in/kiran-kumar-petlu
-- GitHub: https://github.com/Kirankumarpetlu
-
----
-
-⭐ If you found this project useful, consider giving it a **Star**.
