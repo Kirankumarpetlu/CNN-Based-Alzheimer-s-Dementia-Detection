@@ -7,7 +7,7 @@ A deep learning project for automated Alzheimer's disease detection from MRI bra
 ## 📌 Overview
 
 Early diagnosis of Alzheimer's disease is crucial for effective treatment and patient care. This project leverages deep learning techniques to classify MRI brain scans into different stages of Alzheimer's dementia.
-
+ 
 The project includes:
 
 - MRI image preprocessing
